@@ -26,8 +26,8 @@ To play the game you need to have python 3 (it doesn't work on python 2) and you
 <br>
 
 ## ✨ **How to play**
-Download the repository and run the main `pau_game.py`.
-Have fun and try to get the highest score! <br>
+Download the repository and run the main `pau_game.py`.<br>
+Have fun and try to get the highest score! 
 
 *If it does not start immediately, press space bar a few times.*
 
